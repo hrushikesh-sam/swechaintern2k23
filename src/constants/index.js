@@ -14,7 +14,6 @@ import {
   
 } from "../assets";
 import purple from "../assets/company/purple.png"
-import spheresoft from "../assets/company/spheresoft.png"
 import tcs from "../assets/company/tcs.png"
 import techm from "../assets/techm.png"
 import wipro from "../assets/company/wipro.png"
@@ -161,6 +160,17 @@ const experiences = [
       "The interns would be divided into smaller groups of 4-6 people to encourage more meaningful and productive discussions.",
       "At the end of each day, there would be an open forum where the interns would come together to share their thoughts, insights, and questions related to the technologies covered in the session. ",
       "Throughout the event, the interns would be encouraged to reflect on their learning and provide feedback on the sessions, activities, and discussions.",
+    ],
+  },
+  {
+    title: "Impact Sessions",
+    iconBg: "#383E56",
+    icon: purple,
+    points: [
+      "The event would feature impact sessions by guest speakers from leading companies in the technology industry, such as IBM, Wipro, Capgemini, Infosys, Diabsolut, TiHAN IIT Hyderabad, and SphereSoft.",
+      "The impact sessions would be interactive and engaging, with opportunities for the interns to ask questions, share their thoughts and experiences, and learn from the speakers. ",
+      "The speakers would also provide career guidance and insights into the skills and qualities that companies look for in interns and employees. This would help the interns to gain a better understanding of the job market, identify areas for skill development, and prepare themselves for successful careers in the technology industry.",
+      "The impact sessions would also provide networking opportunities for the interns to connect with industry professionals, learn about different career paths, and build relationships that could be beneficial for their future careers. ",
     ],
   },
 ];
